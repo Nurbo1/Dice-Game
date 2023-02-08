@@ -14,11 +14,11 @@ document.querySelector(".img2").setAttribute("src", image2);
 
 
 if(randomNumber1 > randomNumber2){
-  document.querySelector("h1").innerHTML = "🚩 Play 1 Wins!";
+  document.querySelector("h1").innerHTML = "🚩 Dilya loves me";
 
 }else if(randomNumber1 === randomNumber2){
   document.querySelector("h1").innerHTML = "DRAW!";
 }else{
-  document.querySelector("h1").innerHTML = " Play 2 Wins! 🚩";
+  document.querySelector("h1").innerHTML = " I lovw you Dilya! 🚩";
 
 }
