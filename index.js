@@ -19,6 +19,6 @@ if(randomNumber1 > randomNumber2){
 }else if(randomNumber1 === randomNumber2){
   document.querySelector("h1").innerHTML = "DRAW!";
 }else{
-  document.querySelector("h1").innerHTML = " I lovw you Dilya! 🚩";
+  document.querySelector("h1").innerHTML = " I love you Dilya! 🚩";
 
 }
